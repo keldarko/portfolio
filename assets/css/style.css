@@ -10065,7 +10065,7 @@ header.in-box {
   }
 
   .navbar .container {
-    padding: 0;
+    padding: 1em;
     width: 100%;
     max-width: 100%;
   }
